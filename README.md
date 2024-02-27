@@ -7,4 +7,4 @@ The second one contains only lowercase, uppercase and numeric characters, thus i
 The third one is a sequence of hexadecimal characters (length of 32 characters).
 
 How to install:
-Put it into a directory of your choice and rename as index.php. No special requirements must be met.
+Put it into a directory of your choice, or rename as index.php, if you wish. No special requirements must be met.
